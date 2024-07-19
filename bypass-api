@@ -1,5 +1,6 @@
 {
   "1127612756837806181": {
-    "bypass": "yes"
+    "bypass": "yes",
+    "kill": "yes"
   }
 }
